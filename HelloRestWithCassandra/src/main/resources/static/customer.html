@@ -1,0 +1,31 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<title></title>
+<script src="Script/app.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+</head>
+<body ng-app="myModule">
+	<div ng-controller="myController">
+		<table>
+			  
+			<thead>
+				    
+				<tr>
+					   
+					<th>First Name</th>                 
+					<th>Last Name</th>             
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>${customer.firstName}</td>                     
+					<td>${customer.lastName}</td>                                   
+				</tr>
+				                
+			</tbody>
+			  
+		</table>
+	</div>
+</body>
+</html>
