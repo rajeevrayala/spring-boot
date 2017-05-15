@@ -13,7 +13,7 @@
 
     <context:annotation-config />
     
-    <context:component-scan base-package="com.inflinx.blog.springfuture.service" />
+    <context:component-scan base-package="com.AsyncSpringFeature.service" />
        
     <task:annotation-driven />
        

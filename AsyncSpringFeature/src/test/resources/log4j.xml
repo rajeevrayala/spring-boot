@@ -11,7 +11,7 @@
 	</appender>
 	
 	<!-- Application Loggers -->
-	<logger name="com.inflinx.mvcprototype">
+	<logger name="com.rayala.mvcprototype">
 		<level value="debug" />
 	</logger>
 	

@@ -15,6 +15,6 @@
 		<beans:property name="suffix" value=".jsp" />
 	</beans:bean>
 	
-	<context:component-scan base-package="com.inflinx.blog.springfuture.web" />
+	<context:component-scan base-package="com.rayala.blog.AsyncSpringFeature.web" />
 	
 </beans:beans>
