@@ -1,0 +1,4 @@
+com\rayala\service\ReportService.class
+com\rayala\web\controller\HomeController.class
+com\rayala\service\ReportServiceImpl.class
+com\rayala\domain\Report.class
